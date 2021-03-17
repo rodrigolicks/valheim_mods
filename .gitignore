@@ -7,5 +7,5 @@ valheim.exe
 valheim_Data/
 vhmod_01.rar
 Valheim.lnk
-BepInEx/LogOutput.log
+BepInEx/Log*
 BepInEx/cache
