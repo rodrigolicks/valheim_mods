@@ -1,2 +1,3 @@
 @echo off
-git pull --force
+git reset --hard
+git pull --rebase
