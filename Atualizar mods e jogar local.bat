@@ -1,3 +1,3 @@
 @echo off
-git pull
+git pull --force
 start /b "" valheim.exe -windows-mode exclusive
