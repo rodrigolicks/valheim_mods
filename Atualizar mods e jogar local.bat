@@ -1,4 +1,3 @@
 @echo off
-git reset --hard
-git pull --rebase
+"Atualizar mods.bat"
 start /b "" valheim.exe -windows-mode exclusive -console
