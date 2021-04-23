@@ -1,4 +1,4 @@
-# Epic Loot v0.6.4 - Item Names Update!
+# Epic Loot v0.7.6 - Adventure Update!
 Author: RandyKnapp
 Source: [Github](https://github.com/RandyKnapp/ValheimMods/blob/main/EpicLoot/)
 
@@ -49,94 +49,6 @@ Enter these into the console (F5) after using `imacheater`:
 
 ## TODO
 
-- [X] Streamline enchanting UI. Use selectable rarity per item.
-- [X] Configurable magic effects
-- [X] More exclusions and configurable requirements for magic effects
-- [X] Show current equipment with tooltip
-- [X] Augment items: change/reroll magic item effects (transmute? modify?)
-- [ ] Infuse items: rarity to next rarity (like diablo upgrade rare to legendary)
-- [X] List of active magic effects on the player status screen
-- [X] Limit drop types by actual player progression
-- [ ] Gamble for magic items from Merchant
-- [ ] Custom crafting station for enchanting
-- [ ] Create effects for in-game models of magic items
-- [ ] Balance, balance, balance
-- [ ] Move tooltip code to postfix, parse and inject rather than redo from scratch
-- [ ] Custom item sets (replace troll too)
-- [X] Rename item if magic (Legendary still to-do)
-- [ ] New Runes skill (enchanting)
-- [ ] New Seidr skill (for what?)
-
-## Magic Effects:
-
-#### Weapons
-- [ ] Paralyze
-- [ ] Add Knockback
-- [ ] Slow
-- [ ] Blink (bow or spear, teleport to impact point)
-- [ ] Life steal
-- [ ] Exploding shot (bows, deal aoe damage on arrow impact)
-- [ ] Multishot (bows, shoot multiple arrows from one)
-- [ ] Quick draw (bows, draw speed dramatically increased)
-- [ ] Recall (spear, automaticallyl pick up spear after throwing)
-- [ ] Immobilize
-- [ ] Modify Attack Speed
-- [ ] Increase damage vs staggered enemies
-- [ ] Duelist (sword, when off hand is empty, increase parry and block power by a lot)
-- [ ] Opportunist (knife, add backstab damaged to staggered enemies)
-- [ ] Throwing (change alterate attack to throw like spear)
-- [ ] Increase stagger duration
-- [ ] Blind
-- [ ] Immovable (tower shield, immune to stagger and knockback while blocking)
-- [ ] Glowing
-
-#### Armor
-- [ ] Warm (Prevent freezing effect)
-- [ ] Waterproof (cape, prevent Wet effect from rain)
-- [ ] Waterwalk (legs)
-- [ ] Double Jump (legs)
-- [ ] Thorns damage
-- [ ] Sneak increase (legs)
-- [ ] Dodge improvement (legs)
-- [ ] Feather Fall (legs)
-- [ ] Nightvision (helmet)
-- [ ] Discovery radius increase (helmet)
-- [ ] Quick learner (helmet, increase xp gain)
-- [ ] Increase armor when below HP threshold
-- [ ] % chance to stagger attackers
-- [ ] % chance to ignore incoming damage
-- [ ] Improve Skill Level
-- [ ] Comfortable (Increase Comfort level when resting)
-- [ ] Glowing
-
-#### Utility
-- [ ] Luck (increase drop rate and rarity chance)
-- [ ] Riches (add chance to drop treasure on all mobs)
-- [ ] Add bonus armor (magic shield?)
-
-#### Tools
-- [ ] Build freedom (hammer, don't require crafting station)
-- [ ] No stamina cost
-
-## Legendary Items:
-
-- [ ] Sleipnir's Hoof (Club, increase move speed)
-- [ ] Gungnir (Ancient Bark Spear)
-- [ ] Mjolnir (Iron Sledge)
-- [ ] Skofnung (Iron Sword)
-- [ ] Dainslief (Silver Sword)
-- [ ] Angurvadal (Sword)
-- [ ] Vidar's Shoes (Iron Legs, huge kick damage boost?)
-- [ ] Skidbaldnir (ship that can turn into an item)
-- [ ] Hofund (Sword, charges with each kill, then discharges on heavy attack)
-- [ ] Gjallarhorn (Tankard, when used (how?) makes all enemies flee from the player)
-
-## Basic Item Sets:
-
-none
-
-## Legendary Sets:
-
-none
+[To-do List](https://github.com/RandyKnapp/ValheimMods/blob/main/EpicLoot/todo.md)
 
 **Author's Note:** Older versions of this mod used an image of the Odal rune (ᛟ) to denote set items. It's reconstructed Proto-Germanic meaning is "Heritage" or "Possession" and the author felt like it was the best rune from the Elder Futhark to signify set items. However, the Odal rune with wings or feet was and is used as a Nazi symbol. The author ***UNEQUIVOCALLY CONDEMNS*** Nazis, Nazism, anti-semitism, and white supremacy. Furthermore, those who hold or practice those beliefs are not welcome to use this mod. F\*\*k Nazis.
